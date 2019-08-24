@@ -1,8 +1,9 @@
 # The Swift on Linux Working Group
 ## *A Road Map for the Future.*
 ## Purpose of the Working Group
-To provide guidelines for methods and frameworks for the easy installation and distribution of the Swift Coding Language on Linux. This is to include as many of the different Linux distributions and CPU architectures as possible. Where possible this should be the standard installation process as used by other coding languages and applications on that system.  
-To provide methods and frameworks for the addition of new Distributions and Architectures.
+1 - To provide guidelines for methods and frameworks for the easy installation and distribution of the Swift Coding Language on Linux. This is to include as many of the different Linux distributions and CPU architectures as possible. Where possible this should be the standard installation process as used by other coding languages and applications on that system.  
+
+2 - To provide methods and frameworks for the addition of new Distributions and Architectures.
 
 # Primary Functions
 To design frameworks and document methods to enable the following:-
