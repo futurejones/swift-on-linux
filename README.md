@@ -14,6 +14,12 @@ Each Linux distribution has its own packaging system used for the easy installat
 Packages use a `.deb` extension  
 Installed with `sudo apt install <filename>.deb`
 
+### *Package Name*
+An official name for the Swift package will be required and should be uniform over all platforms.  
+NOTE: "swift" can not be used as it already exists in the Debian package lists.
+### *Versioning*
+....... add here ...........
+
 ## **2 - Distribution**
 Setup and maintain the appropriate package repositories for each distribution.
 
