@@ -10,7 +10,7 @@ To design frameworks and document methods to enable the following:-
 ## **1 - Packaging**
 Each Linux distribution has its own packaging system used for the easy installation, update and removal of items. The `swift.tar.gz` files will need to be converted to the appropriate installation package for each distribution.
 ### *Example*
->Ubuntu uses the `aptitude` package manager 
+>Ubuntu uses the `aptitude` package manager   
 Packages use a `.deb` extension  
 Installed with `sudo apt install <filename>.deb`
 
